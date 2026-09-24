@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi, I'm Ankitaa Panpatil 👋
 
 <p align="center">
@@ -9,6 +11,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AnkitaaPanpatil&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/AnkitaaPanpatil?label=Followers&style=social)](https://github.com/AnkitaaPanpatil)
 [![GitHub stars](https://img.shields.io/github/stars/AnkitaaPanpatil?style=social)](https://github.com/AnkitaaPanpatil?tab=repositories)
+
+</div>
 
 ![Animated coding illustration](./profile-animation.svg)
 
