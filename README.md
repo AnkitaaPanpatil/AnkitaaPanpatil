@@ -20,7 +20,7 @@
 
 </p>
 
-<p><strong>About Me</strong></p>
+## About Me
 
 <table>
 	<tr>
