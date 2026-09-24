@@ -111,10 +111,10 @@
 <div align="center">
 
 <a href="https://github.com/AnkitaaPanpatil">
-	<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnkitaaPanpatil&show_icons=true&hide_border=true&title_color=2F80ED&icon_color=00C9A7&text_color=4B5563&bg_color=F8FAFC" alt="Ankitaa's GitHub stats">
+	<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnkitaaPanpatil&show_icons=true&hide_border=true&title_color=2F80ED&icon_color=00C9A7&text_color=4B5563&bg_color=F8FAFC" alt="Ankitaa's GitHub stats">
 </a>
 <a href="https://github.com/AnkitaaPanpatil">
-	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaaPanpatil&layout=compact&hide_border=true&title_color=2F80ED&text_color=4B5563&bg_color=F8FAFC" alt="Top languages">
+	<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnkitaaPanpatil&layout=compact&hide_border=true&title_color=2F80ED&text_color=4B5563&bg_color=F8FAFC" alt="Top languages">
 </a>
 
 <br>
