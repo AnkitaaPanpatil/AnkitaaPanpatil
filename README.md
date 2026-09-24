@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/AnkitaaPanpatil?label=Followers&style=social)](https://github.com/AnkitaaPanpatil)
 [![GitHub stars](https://img.shields.io/github/stars/AnkitaaPanpatil?style=social)](https://github.com/AnkitaaPanpatil?tab=repositories)
 
-![Animated coding illustration](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif)
+![Animated coding illustration](./profile-animation.svg)
 
 ## About Me
 
