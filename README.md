@@ -36,7 +36,7 @@
 			<p>My name is Ankitaa Panpatil. I have completed my M.Sc. in Information Technology (M.Sc. IT).</p>
 		</td>
 		<td align="center" valign="middle" width="38%">
-			<img src="./profile-animation.svg" alt="Coding illustration" width="360">
+			<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif" alt="Animated coding illustration" width="360">
 		</td>
 	</tr>
 </table>
