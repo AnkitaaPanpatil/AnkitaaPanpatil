@@ -1,4 +1,4 @@
-# Hi, I'm Ankita Panpatil 👋
+# Hi, I'm Ankitaa Panpatil 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnkitaaPanpatil&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/AnkitaaPanpatil?label=Followers&style=social)](https://github.com/AnkitaaPanpatil)
@@ -13,7 +13,7 @@
 - Open to: Collaboration, internships, freelance opportunities, and learning projects
 - Portfolio / Personal Website: [Linktree](https://linktr.ee/AnkitaaPanpatil)
 
-My name is Ankita Panpatil. I graduated with a B.Sc in Information Technology and now I’m doing my master’s M.Sc.IT from Pillai HOC College.
+My name is Ankitaa Panpatil. I graduated with a B.Sc in Information Technology and now I’m doing my master’s M.Sc.IT from Pillai HOC College.
 
 ## AI Enthusiast
 
@@ -91,4 +91,4 @@ I love participating in hackathons, competitions, and AI challenges, and I’m a
 
 > “Code is not just logic—it’s problem solving, creativity, and persistence.”
 >
-> — Ankita Panpatil
+> — Ankitaa Panpatil
