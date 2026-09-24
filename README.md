@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ankitaa Panpatil 👋
+# Hi, I'm Ankitaa Panpatil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Waving hand" width="34">
 
 <p align="center">
 
