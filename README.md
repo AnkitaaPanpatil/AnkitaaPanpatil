@@ -14,7 +14,11 @@
 
 </div>
 
-![Animated coding illustration](./profile-animation.svg)
+<p align="center">
+
+![Animated coding illustration](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif)
+
+</p>
 
 ## About Me
 
