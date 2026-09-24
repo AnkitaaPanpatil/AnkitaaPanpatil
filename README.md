@@ -6,6 +6,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/AnkitaaPanpatil?label=Followers&style=social)](https://github.com/AnkitaaPanpatil)
 [![GitHub stars](https://img.shields.io/github/stars/AnkitaaPanpatil?style=social)](https://github.com/AnkitaaPanpatil?tab=repositories)
 
+![Profile illustration](./profile-illustration.svg)
+
 ## About Me
 
 - Profession: Developer / Tech Enthusiast
