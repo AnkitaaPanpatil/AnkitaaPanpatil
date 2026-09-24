@@ -25,7 +25,7 @@
 - Open to: Collaboration, internships, freelance opportunities, and learning projects
 - Portfolio / Personal Website: [Linktree](https://linktr.ee/AnkitaaPanpatil)
 
-My name is Ankitaa Panpatil. I graduated with a B.Sc in Information Technology and now I’m doing my master’s M.Sc.IT from Pillai HOC College.
+My name is Ankitaa Panpatil. I have completed my M.Sc. in Information Technology (M.Sc. IT).
 
 ## AI Enthusiast
 
