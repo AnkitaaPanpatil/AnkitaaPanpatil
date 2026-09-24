@@ -22,23 +22,20 @@
 
 ## About Me
 
-<table>
-	<tr>
-		<td valign="top" width="62%">
-			<ul>
-				<li>🔭 I'm currently open to <strong>collaboration, internships, and freelance opportunities</strong></li>
-				<li>🌱 I'm currently learning <strong>AI tools, data analytics, and modern web technologies</strong></li>
-				<li>🎓 I have completed my <strong>M.Sc. in Information Technology (M.Sc. IT)</strong></li>
-				<li>💬 Ask me about <strong>Python, SQL, Power BI, React.js, and full-stack development</strong></li>
-				<li>📫 How to reach me through <a href="https://www.linkedin.com/in/ankita-panpatil/">LinkedIn</a> or <a href="https://linktr.ee/AnkitaaPanpatil">Linktree</a></li>
-				<li>⚡ Fun fact: I enjoy hackathons, competitions, and building tools that make learning easier</li>
-			</ul>
-		</td>
-		<td align="center" valign="middle" width="38%">
-			<img src="./profile-animation.svg" alt="Animated coding illustration" width="360">
-		</td>
-	</tr>
-</table>
+- Profession: Developer / Tech Enthusiast
+- Based in: India
+- Focus: Full Stack Development / Data Analytics / AI-Powered Products
+- Currently learning: Modern web technologies, AI tools, analytics, and product-minded development
+- Open to: Collaboration, internships, freelance opportunities, and learning projects
+- Portfolio / Personal Website: [Linktree](https://linktr.ee/AnkitaaPanpatil)
+
+My name is Ankitaa Panpatil. I have completed my M.Sc. in Information Technology (M.Sc. IT).
+
+<p align="center">
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif)
+
+</p>
 
 ## AI Enthusiast
 
