@@ -22,40 +22,35 @@
         <stop offset="0%" stop-color="#7C3AED"/>
         <stop offset="100%" stop-color="#22D3EE"/>
       </linearGradient>
-      <linearGradient id="accent" x1="0" x2="1">
-        <stop offset="0%" stop-color="#F472B6"/>
-        <stop offset="100%" stop-color="#FB7185"/>
-      </linearGradient>
-      <style>
-        .pulse { animation: pulse 3s ease-in-out infinite; transform-origin: center; }
-        .float { animation: float 4s ease-in-out infinite; }
-        .float-slow { animation: float 6s ease-in-out infinite; }
-        @keyframes pulse {
-          0%, 100% { transform: scale(1); opacity: 0.9; }
-          50% { transform: scale(1.08); opacity: 1; }
-        }
-        @keyframes float {
-          0%, 100% { transform: translateY(0px); }
-          50% { transform: translateY(-8px); }
-        }
-      </style>
     </defs>
     <rect x="0" y="0" width="920" height="230" rx="18" fill="url(#bg)"/>
-    <circle class="pulse" cx="775" cy="70" r="42" fill="#7C3AED" opacity="0.28"/>
-    <circle class="pulse" cx="840" cy="135" r="56" fill="#22D3EE" opacity="0.18"/>
+
+    <circle cx="775" cy="70" r="42" fill="#7C3AED" opacity="0.28">
+      <animate attributeName="r" values="42;52;42" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.28;0.5;0.28" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="840" cy="135" r="56" fill="#22D3EE" opacity="0.18">
+      <animate attributeName="r" values="56;68;56" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.18;0.32;0.18" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
     <rect x="65" y="48" width="310" height="132" rx="16" fill="#111827" stroke="#374151"/>
     <rect x="85" y="65" width="118" height="12" rx="6" fill="#7C3AED" opacity="0.9"/>
     <rect x="85" y="89" width="170" height="10" rx="5" fill="#94A3B8" opacity="0.7"/>
     <rect x="85" y="110" width="220" height="10" rx="5" fill="#94A3B8" opacity="0.55"/>
     <rect x="85" y="140" width="268" height="20" rx="10" fill="url(#card)"/>
     <rect x="95" y="145" width="64" height="10" rx="5" fill="#E2E8F0" opacity="0.9"/>
-    <g class="float">
+
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="4s" repeatCount="indefinite"/>
       <circle cx="630" cy="140" r="52" fill="#0B1120" stroke="#38BDF8" stroke-width="3"/>
       <path d="M596 140 C620 108, 680 108, 706 140 C680 172, 620 172, 596 140 Z" fill="none" stroke="#7C3AED" stroke-width="3"/>
       <circle cx="630" cy="140" r="22" fill="#22D3EE" opacity="0.9"/>
       <path d="M630 112 L630 168 M602 140 L658 140" stroke="#E2E8F0" stroke-width="3" stroke-linecap="round"/>
     </g>
-    <g class="float-slow">
+
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -12; 0 0" dur="6s" repeatCount="indefinite"/>
       <rect x="450" y="60" width="180" height="82" rx="12" fill="#111827" stroke="#334155"/>
       <rect x="472" y="82" width="22" height="38" rx="6" fill="#22D3EE"/>
       <rect x="500" y="96" width="22" height="24" rx="6" fill="#A78BFA"/>
