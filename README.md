@@ -108,9 +108,20 @@
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitaaPanpatil&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaaPanpatil&layout=compact&theme=radical)
+<a href="https://github.com/AnkitaaPanpatil">
+	<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnkitaaPanpatil&show_icons=true&hide_border=true&title_color=2F80ED&icon_color=00C9A7&text_color=4B5563&bg_color=F8FAFC" alt="Ankitaa's GitHub stats">
+</a>
+<a href="https://github.com/AnkitaaPanpatil">
+	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaaPanpatil&layout=compact&hide_border=true&title_color=2F80ED&text_color=4B5563&bg_color=F8FAFC" alt="Top languages">
+</a>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=AnkitaaPanpatil&hide_border=true&background=F8FAFC&ring=2F80ED&fire=F59E0B&currStreakLabel=2F80ED&sideLabels=4B5563&dates=6B7280" alt="GitHub contribution streak">
+
+</div>
 
 ## Connect With Me
 
