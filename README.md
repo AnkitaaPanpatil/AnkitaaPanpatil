@@ -11,58 +11,7 @@
 </p>
 
 <p align="center">
-  <svg width="920" height="230" viewBox="0 0 920 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration of a developer and analytics dashboard">
-    <defs>
-      <linearGradient id="bg" x1="0" x2="1">
-        <stop offset="0%" stop-color="#0F172A"/>
-        <stop offset="50%" stop-color="#1E1B4B"/>
-        <stop offset="100%" stop-color="#111827"/>
-      </linearGradient>
-      <linearGradient id="card" x1="0" x2="1">
-        <stop offset="0%" stop-color="#7C3AED"/>
-        <stop offset="100%" stop-color="#22D3EE"/>
-      </linearGradient>
-    </defs>
-    <rect x="0" y="0" width="920" height="230" rx="18" fill="url(#bg)"/>
-
-    <circle cx="775" cy="70" r="42" fill="#7C3AED" opacity="0.28">
-      <animate attributeName="r" values="42;52;42" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.28;0.5;0.28" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="840" cy="135" r="56" fill="#22D3EE" opacity="0.18">
-      <animate attributeName="r" values="56;68;56" dur="4s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.18;0.32;0.18" dur="4s" repeatCount="indefinite"/>
-    </circle>
-
-    <rect x="65" y="48" width="310" height="132" rx="16" fill="#111827" stroke="#374151"/>
-    <rect x="85" y="65" width="118" height="12" rx="6" fill="#7C3AED" opacity="0.9"/>
-    <rect x="85" y="89" width="170" height="10" rx="5" fill="#94A3B8" opacity="0.7"/>
-    <rect x="85" y="110" width="220" height="10" rx="5" fill="#94A3B8" opacity="0.55"/>
-    <rect x="85" y="140" width="268" height="20" rx="10" fill="url(#card)"/>
-    <rect x="95" y="145" width="64" height="10" rx="5" fill="#E2E8F0" opacity="0.9"/>
-
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="4s" repeatCount="indefinite"/>
-      <circle cx="630" cy="140" r="52" fill="#0B1120" stroke="#38BDF8" stroke-width="3"/>
-      <path d="M596 140 C620 108, 680 108, 706 140 C680 172, 620 172, 596 140 Z" fill="none" stroke="#7C3AED" stroke-width="3"/>
-      <circle cx="630" cy="140" r="22" fill="#22D3EE" opacity="0.9"/>
-      <path d="M630 112 L630 168 M602 140 L658 140" stroke="#E2E8F0" stroke-width="3" stroke-linecap="round"/>
-    </g>
-
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -12; 0 0" dur="6s" repeatCount="indefinite"/>
-      <rect x="450" y="60" width="180" height="82" rx="12" fill="#111827" stroke="#334155"/>
-      <rect x="472" y="82" width="22" height="38" rx="6" fill="#22D3EE"/>
-      <rect x="500" y="96" width="22" height="24" rx="6" fill="#A78BFA"/>
-      <rect x="528" y="72" width="22" height="48" rx="6" fill="#F472B6"/>
-      <rect x="556" y="88" width="22" height="32" rx="6" fill="#34D399"/>
-      <rect x="600" y="68" width="130" height="80" rx="12" fill="#111827" stroke="#334155"/>
-      <path d="M620 120 C640 100, 660 90, 680 104 S720 134, 722 115" stroke="#22D3EE" stroke-width="4" fill="none" stroke-linecap="round"/>
-      <circle cx="620" cy="120" r="4" fill="#F472B6"/>
-      <circle cx="680" cy="104" r="4" fill="#7C3AED"/>
-      <circle cx="722" cy="115" r="4" fill="#34D399"/>
-    </g>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Data+Analyst;Aspiring+Full-Stack+Developer;AI+Enthusiast;Building+Meaningful+Digital+Solutions" alt="Typing animation" />
 </p>
 
 Passionate about transforming data into insights and ideas into digital solutions. I enjoy building analytics dashboards, AI-powered tools, and full-stack applications that solve real-world problems while continuously learning new technologies.
