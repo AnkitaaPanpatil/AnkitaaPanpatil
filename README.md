@@ -43,7 +43,16 @@
 
 ## AI Enthusiast
 
-Passionate about transforming data into insights and ideas into digital solutions. I enjoy building analytics dashboards, AI-powered tools, and full-stack applications that solve real-world problems while continuously learning new technologies.
+<table>
+	<tr>
+		<td align="center" valign="middle" width="35%">
+			<img src="./68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966.gif" alt="Coding character animation" width="240">
+		</td>
+		<td valign="middle" width="65%">
+			Passionate about transforming data into insights and ideas into digital solutions. I enjoy building analytics dashboards, AI-powered tools, and full-stack applications that solve real-world problems while continuously learning new technologies.
+		</td>
+	</tr>
+</table>
 
 ## Top Skills & Tech Stack
 
