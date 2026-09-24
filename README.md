@@ -1,11 +1,3 @@
-<p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,45:0f766e,100:84cc16&height=180&section=header&text=Ankitaa%20Panpatil&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Animated green waving header with Ankitaa Panpatil" width="100%" />
-</p>
-
-<p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&duration=2800&pause=900&color=84CC16&center=true&vCenter=true&width=760&lines=Data+Analyst+%7C+Full-Stack+Developer+%7C+AI+Enthusiast;Turning+raw+data+into+useful+stories;Building+practical+tools+with+curiosity" alt="Animated introduction" />
-</p>
-
 # Hi, I'm Ankitaa Panpatil 👋
 
 ### Data Analyst | Aspiring Full-Stack Developer | AI Enthusiast
@@ -50,8 +42,8 @@ I primarily work on **Data Analytics, Full-Stack Web Development, and AI-powered
 
 #### 📫 Connect With Me
 
-* GitHub: [AnkitaaPanpatil](https://github.com/AnkitaaPanpatil)
-* LinkedIn: [Ankita Panpatil](https://www.linkedin.com/in/ankita-panpatil/)
+* GitHub: https://github.com/AnkitaaPanpatil
+* LinkedIn: https://www.linkedin.com/in/ankita-panpatil/
 
 #### ✨ About Me
 
@@ -67,7 +59,3 @@ A curious learner passionate about data, technology, and continuous improvement.
 #### ⚡ Fun Fact
 
 I love participating in hackathons, competitions, and AI challenges, and I've been recognized in Promptathon and AI Promptthon competitions for building innovative AI tools.
-
-<p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:84cc16,50:0f766e,100:064e3b&height=100&section=footer&animation=fadeIn" alt="Green illustrated footer wave" width="100%" />
-</p>
