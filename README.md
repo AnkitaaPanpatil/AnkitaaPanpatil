@@ -1,6 +1,10 @@
 # Hi, I'm Ankitaa Panpatil 👋
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=false&vCenter=true&width=520&lines=Developer+%7C+Tech+Enthusiast;Building+useful+digital+experiences;Exploring+AI%2C+data%2C+and+full-stack+development)](https://git.io/typing-svg)
+
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnkitaaPanpatil&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/AnkitaaPanpatil?label=Followers&style=social)](https://github.com/AnkitaaPanpatil)
