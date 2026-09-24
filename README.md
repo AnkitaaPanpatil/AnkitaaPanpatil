@@ -6,6 +6,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/AnkitaaPanpatil?label=Followers&style=social)](https://github.com/AnkitaaPanpatil)
 [![GitHub stars](https://img.shields.io/github/stars/AnkitaaPanpatil?style=social)](https://github.com/AnkitaaPanpatil?tab=repositories)
 
+![Animated profile banner](https://capsule-render.vercel.app/api?type=venom&color=0:2F80ED,100:00C9A7&height=140&section=header&text=Building%20with%20curiosity&fontSize=28&fontColor=ffffff&animation=twinkling)
+
 ## About Me
 
 - Profession: Developer / Tech Enthusiast
