@@ -42,8 +42,8 @@ I primarily work on **Data Analytics, Full-Stack Web Development, and AI-powered
 
 #### 📫 Connect With Me
 
-* GitHub: https://github.com/AnkitaaPanpatil
-* LinkedIn: https://www.linkedin.com/in/ankita-panpatil/
+* GitHub: [AnkitaaPanpatil](https://github.com/AnkitaaPanpatil)
+* LinkedIn: [Ankita Panpatil](https://www.linkedin.com/in/ankita-panpatil/)
 
 #### ✨ About Me
 
