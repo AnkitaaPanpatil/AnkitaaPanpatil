@@ -22,20 +22,24 @@
 
 ## About Me
 
-- Profession: Developer / Tech Enthusiast
-- Based in: India
-- Focus: Full Stack Development / Data Analytics / AI-Powered Products
-- Currently learning: Modern web technologies, AI tools, analytics, and product-minded development
-- Open to: Collaboration, internships, freelance opportunities, and learning projects
-- Portfolio / Personal Website: [Linktree](https://linktr.ee/AnkitaaPanpatil)
-
-My name is Ankitaa Panpatil. I have completed my M.Sc. in Information Technology (M.Sc. IT).
-
-<p align="center">
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif)
-
-</p>
+<table>
+	<tr>
+		<td valign="top" width="62%">
+			<ul>
+				<li>Profession: Developer / Tech Enthusiast</li>
+				<li>Based in: India</li>
+				<li>Focus: Full Stack Development / Data Analytics / AI-Powered Products</li>
+				<li>Currently learning: Modern web technologies, AI tools, analytics, and product-minded development</li>
+				<li>Open to: Collaboration, internships, freelance opportunities, and learning projects</li>
+				<li>Portfolio / Personal Website: <a href="https://linktr.ee/AnkitaaPanpatil">Linktree</a></li>
+			</ul>
+			<p>My name is Ankitaa Panpatil. I have completed my M.Sc. in Information Technology (M.Sc. IT).</p>
+		</td>
+		<td align="center" valign="middle" width="38%">
+			<img src="./profile-animation.svg" alt="Coding illustration" width="360">
+		</td>
+	</tr>
+</table>
 
 ## AI Enthusiast
 
